@@ -1,4 +1,4 @@
-# FunnyMap
+# Funny Map Extras
 
 # [Download](https://github.com/nikanet-2000/Funny-Map-Extra/releases) 
 
